@@ -39,9 +39,9 @@ and all links working
 
 ## Screenshot
 
-Here is a screenshot of the deployed website when opened using its URL.
+Here is a screenshot of the deployed website when opened using its URL on a desktop.
 
-![alt text](assets/images/screenshot.png)
+![Screenshot of Horiseon website](assets/images/screenshot.png)
 
 ## Technology Used
 
