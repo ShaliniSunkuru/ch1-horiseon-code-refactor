@@ -57,6 +57,8 @@ The following tools and technologies were used in this project
 
 Here is a link to the deployed website. Click it and explore.
 
+https://shalinisunkuru.github.io/ch1-horiseon-code-refactor/
+
 ## Usage
 
 To view what is done in this project, you can open Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open below or to the side of the webpage in the browser. You can look at the html and css to see how it is made more accessible with the use of alt text, semantic elements, and more. 
